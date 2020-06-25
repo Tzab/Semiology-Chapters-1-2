@@ -2,7 +2,9 @@
 
 ## 1. Analysis of the information
   1)Which are the 3 different meanings which we can attribute to signs? A: onosemic, polysemic & pansemic 
+  
   2)When a system is monosemic? A:  when the meaning of each sign is
+  
 known prior to observation of the collection of signs.
   3) What are the 3 sensory  variables that the visual perception has?A: the variation of marks and the two dimensionsof the plane.
   4) When do the most ancient graphic representations probably date ? A: he third millennium before Christ
