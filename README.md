@@ -96,7 +96,7 @@ geographic distribution knowed? A: Geographic map
 
   ### A. The basic graphic problem
   
-  1)
+  1) 
   
   2)
   
