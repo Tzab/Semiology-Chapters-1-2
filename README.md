@@ -144,7 +144,7 @@ correspondences, (3) To simplify the image by reduction
 
   ### E. General rules of legibility (or rules of separation)
   
-  1) What are the rules of legibility? A: The observations which permit us to best accomplish sensory differentiation
+  1) What is the importac of legibility? A:It permit us to best accomplish sensory differentiation
   
   2) Which is the maximum limit of the legibility of a figuration? A:Ten signs per cm’
   
