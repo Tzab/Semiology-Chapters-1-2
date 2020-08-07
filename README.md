@@ -94,17 +94,6 @@ geographic distribution knowed? A: Geographic map
   
 ## 3. The rules of the graphic system
 
-  ### A. The basic graphic problem
-  
-  1) 
-  
-  2)
-  
-  3)
-  
-  4)
-  
-  5)
   
   ### B. Image theory: Efficiency
   1) How is the image theory form? A: The body of remarks leading to the rules of construction
